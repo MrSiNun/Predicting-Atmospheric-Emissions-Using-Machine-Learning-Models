@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your project, following standard practices for describing the project, its goals, structure, and how others can replicate or understand the work.
 
----
 
 # Predicting Atmospheric Emissions Using Machine Learning Models
 
